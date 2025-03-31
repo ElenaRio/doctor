@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/doctor/static/css/main.f31b2198.css",
+    "main.js": "/doctor/static/js/main.35f135e8.js",
+    "static/media/5.jpg": "/doctor/static/media/5.dbdddb90da0c3a829c93.jpg",
+    "index.html": "/doctor/index.html",
+    "main.f31b2198.css.map": "/doctor/static/css/main.f31b2198.css.map",
+    "main.35f135e8.js.map": "/doctor/static/js/main.35f135e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f31b2198.css",
+    "static/js/main.35f135e8.js"
+  ]
+}
